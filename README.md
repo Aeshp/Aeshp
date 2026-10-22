@@ -1,8 +1,8 @@
 <div align="center">
 
-### My projects, with the code, the working demos and the people behind them
+### My projects, with the code, the working demos, the implementation plans and the people behind them
 
-*Tap the card to explore my full profile on Ovuge*
+*Click the card to see them in action*
 
 [![Akhand's Ovuge Profile](https://www.ovuge.com/api/embed/profile/akhand?theme=obsidian)](https://www.ovuge.com/profile/akhand)
 
